@@ -46,7 +46,7 @@ def selective_tweet_shortener(tweet)
     else
       tweet
     end
-  end
+  
 end
 
 def shortened_tweet_truncator(tweet)
